@@ -1,0 +1,13 @@
+{
+  "name": "waris_PATIENT_TRACKING",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://206.189.43.61/api"
+    }
+  ]
+}

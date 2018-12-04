@@ -1,0 +1,1 @@
+export const apikey = 'http://206.189.43.61/api/'
